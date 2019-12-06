@@ -1,0 +1,270 @@
+body{
+margin:0px;
+background-image: url("../images/background.png");
+}
+
+
+.header{
+position: relative;
+height: 100px;
+width: 100%;
+margin-top: -35px;
+background: #ffffff;
+border-bottom:3px solid #dddddd;
+}
+
+.links{
+font-size: 22px;
+font-family:sans-serif;
+float:right;
+margin-right:250px;
+
+}
+a:link{
+
+text-decoration:black;
+}
+
+a:visited {
+  color: #777777;
+}
+
+a:hover {
+  color: #4aaaa5;
+}
+
+ 
+a:active {
+  color: #383737;
+
+}
+
+h1{
+border-right: 7px solid #eeeeee;
+border-left: 4px solid #eeeeee;
+height: 100px;
+line-height: 100px;
+width: 300px;
+background:#4aaaa5;
+margin-left: 150px;
+text-align:center ;
+font-size: 32pt;
+font-family: sans-serif;
+margin-bottom: -60px; 
+color: #ffffff;
+}
+
+#content{
+position: relative;
+background: #ffffff;
+height:750px;
+width: 960px;
+margin: 0 auto 0 auto;
+margin-top:20px;
+border-top-right-radius:7px;
+border-top-left-radius: 7px;
+border: 1px solid #dddddd;
+
+}
+
+
+h2{
+margin:25px;
+margin-bottom: -10px;
+padding-left: 25px;
+font-size:24pt;
+color: #4aaaa5;
+}
+
+hr{
+height:2px;
+width:900px;
+margin-top: 20px;
+border-style: none;
+background: #dddddd;
+ }
+
+
+
+p{
+height: 100px;
+width: 600px;
+padding-left: 35px;
+font-family: Arial;
+font-size:19px;
+color: #777777;
+margin: -10px;
+float: right;
+}
+
+
+#image{
+position: absolute;
+margin-top: 10px;
+padding:30px;
+
+}
+.footer{
+padding-bottom:0px;
+height:65px;
+width: 100%;
+margin-top:30px;
+background:#666666;
+border-top: 8px solid #4aaaa5;
+text-align: center;
+line-height: 50px;
+color: #dddddd;
+
+}
+
+
+#contact-form{
+margin: 0 auto 0 auto;
+padding-top: 20px;
+width: 750px; 
+font-family: Arial, Helvetica, sans-serif;
+color: #777777;
+}
+
+
+input[type=text], select, textarea {
+width: 700px;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 4px;
+margin-top: 10px;
+margin-bottom: 10px;
+resize: vertical;
+  }
+  
+input[type=submit] {
+ background-color: #dddddd;
+color: #4aaaa5;
+padding: 10px 20px;
+ border: none;
+border-radius: 3px;
+ font-family: bold Arial, Helvetica, sans-serif;
+ font-size: 15px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #fcfafa;
+  }
+/* photo gallery goes here */
+
+.gallery{
+font-family: Arial, Helvetica, sans-serif;
+color: #ffffff;
+padding: 40px;
+margin-top:1px;
+margin-left: 20px;
+margin-right: 20px
+
+
+
+}
+#image1{
+position: relative;
+margin-right: 30px;
+}
+
+#image2{
+position: relative;
+margin: 30px;
+margin-left: 265px;
+margin-top: -180px;
+  
+}
+#image4{
+position: absolute;
+margin: 25px;
+margin-left: 265px;
+margin-top: -180px;
+}
+
+#image5{
+margin-top:30px;
+
+}
+
+#label1{
+  position: absolute;
+  text-align:center;
+  line-height: 40px;
+  width: 235px;
+  height: 40px;
+  margin-top: -50px;
+  background: #4aaaa5;
+  
+  }
+  
+#label1{
+position: absolute;
+text-align:center;
+line-height: 40px;
+width: 235px;
+height: 40px;
+margin-top: -50px;
+background: #4aaaa5;
+    
+    }
+#label2{
+position: absolute;
+text-align:center;
+line-height: 40px;
+width: 235px;
+height: 40px;
+margin-top: -50px;
+background: #4aaaa5;
+    
+}
+#label3{
+position: absolute;
+text-align:center;
+line-height: 40px;
+width: 235px;
+height: 40px;
+margin-top: -50px;
+background: #4aaaa5;
+      
+}
+#label4{
+position: absolute;
+text-align:center;
+line-height: 40px;
+width: 235px;
+height: 40px;
+margin-top: -50px;
+background: #4aaaa5;
+}
+
+#label5{
+position: absolute;
+text-align:center;
+line-height: 40px;
+width: 235px;
+height: 40px;
+margin-top: -50px;
+background: #4aaaa5;
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
